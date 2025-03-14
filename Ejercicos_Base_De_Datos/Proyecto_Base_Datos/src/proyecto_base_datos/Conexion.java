@@ -11,7 +11,7 @@ import java.sql.SQLException;
  * @author Usuario
  */
 public class Conexion {
-    static String bd = "Prueba";
+    static String bd = "Pruebas";
     static String url = "jdbc:mysql://localhost:3306/";
     static String user = "root";
     static String password = "campus2023";
