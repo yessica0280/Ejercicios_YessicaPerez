@@ -18,4 +18,5 @@ public class HiloEjemplo extends Thread{
             e.printStackTrace();
         }
     }
+    public void d() {}
 }
